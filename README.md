@@ -31,7 +31,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; C# | Kotlin
+- 🔧 &nbsp; Kotlin
 
 <hr>
 
@@ -45,7 +45,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZahran02)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZahran02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
