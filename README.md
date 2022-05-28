@@ -1,16 +1,78 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Ahmed Zahran</h2>
 
-<!--
-**AhmedZahran02/AhmedZahran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻•💻 About Me </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🤔 &nbsp; Exploring new technologies .
+
+- 🎓 &nbsp; Studying Computer Engineering at Cairo University.
+
+- 🌱 &nbsp; Learning about Game Development.
+
+- ✍️ &nbsp; Pursuing Web Development as a hobby.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; C++ | C | Java | Python 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; C# | Kotlin
+
+<hr>
+
+
+
+<br/><br/>
+
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedZahran02&show_icons=true)](https://github.com/AhmedZahran02)
+
+<br/>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZahran02&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ahmedzahran2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Zahran-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:aozaoz2017@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aozaoz2017@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=AhmedZahran02.AhmedZahran02)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+
+
+<hr>
+
+
