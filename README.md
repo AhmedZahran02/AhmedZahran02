@@ -33,13 +33,13 @@
 
 <br/><br/>
 
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedZahran02&show_icons=true)](https://github.com/AhmedZahran02)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedZahran02&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZahran02&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZahran02)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
