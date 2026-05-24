@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/aozaoz2017">
-  <img align="left" alt="Zahran's HackerRank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+  <img align="left" alt="Zahran's HackerRank" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png?_=20180109055843" draggable="false" />
 </a>
 
 <a href="mailto:aozaoz2017@gmail.com">
@@ -39,7 +39,7 @@
 
 🎓 **Computer Engineering Graduate** from *Cairo University*  
 
-💡 Passionate about **AI Systems, Deep Learning, and Large Language Models (LLMs)**  
+💡 Passionate about **AI Systems, Deep Learning, Reinforcement Learning, and Large Language Models (LLMs)**  
 
 🧠 Exploring **Transformers, Retrieval-Augmented Generation (RAG)**, and **efficient inference techniques**  
 
@@ -52,24 +52,34 @@
 <br/>
 
 <h2 align="center">🧰 Languages & Tools</h2> 
+<p align="center"> <img width="600px" src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,php,r,react,nodejs,express,django,fastapi,bootstrap,jquery,pytorch,tensorflow,sklearn,opencv,postgres,mysql,mongo,redis,prisma,docker,linux,git,github,cmake,azure,androidstudio,arduino,figma,matlab,notion,postman,vscode&perline=10" /> </p>
+
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,html,css,nodejs,express,react,pytorch,tensorflow,django,fastapi,postgres,mongo,redis,docker,git,github,linux,vscode,postman,azure&perline=12"  />
+  <img height="45" src="https://gymnasium.farama.org/_images/gymnasium-text.png" />
+  &nbsp;&nbsp;
+  <img height="45" src="https://pettingzoo.farama.org/_images/pettingzoo-text.png" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Stable--Baselines3-222222?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<span>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedZahran02&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedZahran02&count_private=true&show_icons=true&theme=dark)</span>
-
 <p align="center">
-<a href="https://github.com/AhmedZahran02/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedZahran02&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
+  <img width="390" src="https://streak-stats.demolab.com?user=AhmedZahran02&theme=dark&hide_border=true" />  
 </p>
 
-<br>
+<p align="center">  
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedZahran02&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
 
-<hr>
+<p align="center">
+  <img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedZahran02&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=AhmedZahran02.AhmedZahran02)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<br/>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedZahran02.AhmedZahran02" />
+</p>
